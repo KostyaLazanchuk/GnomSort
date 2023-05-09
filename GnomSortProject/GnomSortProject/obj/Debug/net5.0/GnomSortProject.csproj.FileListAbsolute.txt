@@ -1,0 +1,16 @@
+F:\KPI_2022-2023\2 Semester\CourseProject\GnomSortProject\GnomSortProject\obj\Debug\net5.0\GnomSortProject.csproj.AssemblyReference.cache
+F:\KPI_2022-2023\2 Semester\CourseProject\GnomSortProject\GnomSortProject\obj\Debug\net5.0\GnomSortProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\KPI_2022-2023\2 Semester\CourseProject\GnomSortProject\GnomSortProject\obj\Debug\net5.0\GnomSortProject.AssemblyInfoInputs.cache
+F:\KPI_2022-2023\2 Semester\CourseProject\GnomSortProject\GnomSortProject\obj\Debug\net5.0\GnomSortProject.AssemblyInfo.cs
+F:\KPI_2022-2023\2 Semester\CourseProject\GnomSortProject\GnomSortProject\obj\Debug\net5.0\GnomSortProject.csproj.CoreCompileInputs.cache
+F:\KPI_2022-2023\2 Semester\CourseProject\GnomSortProject\GnomSortProject\bin\Debug\net5.0\GnomSortProject.exe
+F:\KPI_2022-2023\2 Semester\CourseProject\GnomSortProject\GnomSortProject\bin\Debug\net5.0\GnomSortProject.deps.json
+F:\KPI_2022-2023\2 Semester\CourseProject\GnomSortProject\GnomSortProject\bin\Debug\net5.0\GnomSortProject.runtimeconfig.json
+F:\KPI_2022-2023\2 Semester\CourseProject\GnomSortProject\GnomSortProject\bin\Debug\net5.0\GnomSortProject.runtimeconfig.dev.json
+F:\KPI_2022-2023\2 Semester\CourseProject\GnomSortProject\GnomSortProject\bin\Debug\net5.0\GnomSortProject.dll
+F:\KPI_2022-2023\2 Semester\CourseProject\GnomSortProject\GnomSortProject\bin\Debug\net5.0\GnomSortProject.pdb
+F:\KPI_2022-2023\2 Semester\CourseProject\GnomSortProject\GnomSortProject\obj\Debug\net5.0\GnomSortProject.dll
+F:\KPI_2022-2023\2 Semester\CourseProject\GnomSortProject\GnomSortProject\obj\Debug\net5.0\refint\GnomSortProject.dll
+F:\KPI_2022-2023\2 Semester\CourseProject\GnomSortProject\GnomSortProject\obj\Debug\net5.0\GnomSortProject.pdb
+F:\KPI_2022-2023\2 Semester\CourseProject\GnomSortProject\GnomSortProject\obj\Debug\net5.0\GnomSortProject.genruntimeconfig.cache
+F:\KPI_2022-2023\2 Semester\CourseProject\GnomSortProject\GnomSortProject\obj\Debug\net5.0\ref\GnomSortProject.dll
